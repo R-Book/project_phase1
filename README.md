@@ -1,11 +1,11 @@
 Term Project Phase I
 
-Names of team members
+● Names of team members
 
-Project topic
+● Project topic
 
-Description (A paragraph)
+● Description (A paragraph)
 
-Write a sample scenario
+● Write a sample scenario
 
-Draw the Use Case Diagrams for your project
+● Draw the Use Case Diagrams for your project
